@@ -33,9 +33,13 @@ make
 * **Julia**: (Requires two floating-point values representing the complex number `c`)
   ```bash
   ./fractol julia <real> <imaginary>
+  
   # Stunning examples:
-  ./fractol julia -0.835 -0.2321
-  ./fractol julia 0.285 0.01
+/fractol julia -0.4 0.6     (spiral)
+	./fractol julia 0.285 0.01   (dendrites)
+	./fractol julia -0.70176 -0.3842  (lightning)
+	./fractol julia -0.835 -0.2321  (dragon)
+	./fractol julia -0.8 0.156    (galaxy)
   ```
 
 ## 📂 Project Architecture
