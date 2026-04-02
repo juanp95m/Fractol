@@ -1,7 +1,7 @@
 <div align="center">
   <b>🇪🇸 Español</b> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a href="#english">🇺🇸 English</a>
 </div>
-<a name="espanol"></a>
+<a id="espanol"></a>
 
 ---
 
@@ -83,7 +83,7 @@ El explorador fractal cuenta con las siguientes funcionalidades mapeadas:
 <br><br><br>
 <hr>
 
-<a name="english"></a>
+<a id="english"></a>
 <div align="center">
   <a href="#espanol">🇪🇸 Español</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <b>🇺🇸 English</b>
 </div>
