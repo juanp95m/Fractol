@@ -31,6 +31,9 @@ make
   ```bash
   ./fractol mandelbrot
   ```
+  <p align="center">
+    <img src="mandelbrot.png" alt="Mandelbrot Fractal" width="500"/>
+  </p>
 * **Julia**: (Requiere dos valores decimales para representar el número complejo `c`)
   ```bash
   ./fractol julia <real> <imaginario>
@@ -42,6 +45,9 @@ make
 	./fractol julia -0.835 -0.2321  (dragon)
 	./fractol julia -0.8 0.156    (galaxy)
   ```
+  <p align="center">
+    <img src="julia.png" alt="Julia Fractal" width="500"/>
+  </p>
 
 ## 📂 Arquitectura del Proyecto
 ```text
@@ -110,6 +116,9 @@ make
   ```bash
   ./fractol mandelbrot
   ```
+  <p align="center">
+    <img src="mandelbrot.png" alt="Mandelbrot Fractal" width="500"/>
+  </p>
 * **Julia**: (Requires two floating-point values representing the complex number `c`)
   ```bash
   ./fractol julia <real> <imaginary>
@@ -121,6 +130,9 @@ make
   ./fractol julia -0.835 -0.2321  (dragon)
   ./fractol julia -0.8 0.156    (galaxy)
   ```
+  <p align="center">
+    <img src="julia.png" alt="Julia Fractal" width="500"/>
+  </p>
 
 ## 📂 Project Architecture
 ```text
