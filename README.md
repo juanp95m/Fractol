@@ -1,6 +1,7 @@
 <div align="center">
-  <b>🇪🇸 Español</b> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a href="README_en.md">🇺🇸 English</a>
+  <b>🇪🇸 Español</b> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a href="#english">🇺🇸 English</a>
 </div>
+<a name="espanol"></a>
 
 ---
 
@@ -73,8 +74,12 @@ El explorador fractal cuenta con las siguientes funcionalidades mapeadas:
 * Parseo robusto de argumentos de línea de comandos (incluyendo números en coma flotante).
 
 
+<br><br><br>
+<hr>
+
+<a name="english"></a>
 <div align="center">
-  <b>🇺🇸 English</b> | <a href="README.md">🇪🇸 Español</a>
+  <a href="#espanol">🇪🇸 Español</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <b>🇺🇸 English</b>
 </div>
 
 ---
