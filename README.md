@@ -39,7 +39,7 @@ make
   ./fractol julia <real> <imaginario>
 
   # Ejemplos sorprendentes:
-  ./fractol julia -0.4 0.6           (spiral)
+    ./fractol julia -0.4 0.6           (spiral)
 	./fractol julia 0.285 0.01         (dendrites)
 	./fractol julia -0.70176 -0.3842   (lightning)
 	./fractol julia -0.835 -0.2321     (dragon)
